@@ -10,3 +10,7 @@
 test = "Hello World"
 print(test)
 ```
+task list
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
